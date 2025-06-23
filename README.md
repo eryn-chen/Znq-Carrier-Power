@@ -10,7 +10,7 @@ https://github.com/pinguz97/Zynq-SoM/
 - 3D Models
 - Example Project
 
-## Usage
+## Usage of KiCAD Symbol and Footprint
 - Copy the `imports` folder of this repository into the top folder of your KiCAD Project
 - Select the appropriate files in KiCAD under Tools -> Manage Symbol/Footrpint Library
 
