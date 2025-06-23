@@ -5825,7 +5825,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 220.98 36.83 0)
+		(at 214.63 29.21 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -5834,7 +5834,7 @@
 		(fields_autoplaced yes)
 		(uuid "0c51a080-2ad2-4dba-bef3-0a5d1e66079b")
 		(property "Reference" "H1"
-			(at 223.52 34.2899 0)
+			(at 217.17 26.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5843,7 +5843,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 223.52 36.8299 0)
+			(at 217.17 29.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5852,7 +5852,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_TopBottom"
-			(at 220.98 36.83 0)
+			(at 214.63 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5861,7 +5861,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 220.98 36.83 0)
+			(at 214.63 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5870,7 +5870,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 220.98 36.83 0)
+			(at 214.63 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5892,7 +5892,7 @@
 	)
 	(symbol
 		(lib_id "symbol_Zynq_SoM:Zynq_SoM")
-		(at 88.9 35.56 0)
+		(at 82.55 27.94 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5901,7 +5901,7 @@
 		(fields_autoplaced yes)
 		(uuid "1a1a0f4c-5e78-473e-bb5e-ba65da95b500")
 		(property "Reference" "J1"
-			(at 117.475 27.94 0)
+			(at 111.125 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5909,15 +5909,15 @@
 			)
 		)
 		(property "Value" "Zynq_SoM"
-			(at 117.475 30.48 0)
+			(at 111.125 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "footprint_Zynq_SoM:Zync_SoM"
-			(at 93.98 34.29 0)
+		(property "Footprint" "footprint_Zynq_SoM:Zynq_SoM"
+			(at 87.63 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5927,7 +5927,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 93.98 39.37 0)
+			(at 87.63 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5937,7 +5937,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 88.9 35.56 0)
+			(at 82.55 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6892,7 +6892,7 @@
 	)
 	(symbol
 		(lib_id "symbol_Zynq_SoM:Zynq_SoM")
-		(at 29.21 35.56 0)
+		(at 22.86 27.94 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6901,7 +6901,7 @@
 		(fields_autoplaced yes)
 		(uuid "6f9687bd-cca2-4bf9-8ab7-39df1a6377b8")
 		(property "Reference" "J1"
-			(at 57.785 27.94 0)
+			(at 51.435 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6909,15 +6909,15 @@
 			)
 		)
 		(property "Value" "Zynq_SoM"
-			(at 57.785 30.48 0)
+			(at 51.435 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "footprint_Zynq_SoM:Zync_SoM"
-			(at 34.29 34.29 0)
+		(property "Footprint" "footprint_Zynq_SoM:Zynq_SoM"
+			(at 27.94 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6927,7 +6927,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 34.29 39.37 0)
+			(at 27.94 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6937,7 +6937,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 29.21 35.56 0)
+			(at 22.86 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7892,7 +7892,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 226.06 36.83 0)
+		(at 219.71 29.21 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -7901,7 +7901,7 @@
 		(fields_autoplaced yes)
 		(uuid "91b3e1fb-3616-4f3c-8ed2-117c53a44e33")
 		(property "Reference" "H2"
-			(at 228.6 34.2899 0)
+			(at 222.25 26.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7910,7 +7910,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 228.6 36.8299 0)
+			(at 222.25 29.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7919,7 +7919,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_TopBottom"
-			(at 226.06 36.83 0)
+			(at 219.71 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7928,7 +7928,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 226.06 36.83 0)
+			(at 219.71 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7937,7 +7937,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 226.06 36.83 0)
+			(at 219.71 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7959,7 +7959,7 @@
 	)
 	(symbol
 		(lib_id "symbol_Zynq_SoM:Zynq_SoM")
-		(at 148.59 35.56 0)
+		(at 142.24 27.94 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7968,7 +7968,7 @@
 		(fields_autoplaced yes)
 		(uuid "a06e25eb-7d5b-4f85-af5b-9af0f854c3e3")
 		(property "Reference" "J1"
-			(at 177.165 27.94 0)
+			(at 170.815 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7976,15 +7976,15 @@
 			)
 		)
 		(property "Value" "Zynq_SoM"
-			(at 177.165 30.48 0)
+			(at 170.815 22.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Footprint" "footprint_Zynq_SoM:Zync_SoM"
-			(at 153.67 34.29 0)
+		(property "Footprint" "footprint_Zynq_SoM:Zynq_SoM"
+			(at 147.32 26.67 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7994,7 +7994,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 153.67 39.37 0)
+			(at 147.32 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8004,7 +8004,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 148.59 35.56 0)
+			(at 142.24 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8959,7 +8959,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 236.22 36.83 0)
+		(at 229.87 29.21 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -8968,7 +8968,7 @@
 		(fields_autoplaced yes)
 		(uuid "dcbf26d6-b042-410f-bbdc-12be0973dbdc")
 		(property "Reference" "H4"
-			(at 238.76 34.2899 0)
+			(at 232.41 26.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8977,7 +8977,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 238.76 36.8299 0)
+			(at 232.41 29.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8986,7 +8986,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_TopBottom"
-			(at 236.22 36.83 0)
+			(at 229.87 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8995,7 +8995,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 236.22 36.83 0)
+			(at 229.87 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9004,7 +9004,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 236.22 36.83 0)
+			(at 229.87 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9026,7 +9026,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 231.14 36.83 0)
+		(at 224.79 29.21 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -9035,7 +9035,7 @@
 		(fields_autoplaced yes)
 		(uuid "f118c427-0a3d-4781-b8e5-99f0989f34ac")
 		(property "Reference" "H3"
-			(at 233.68 34.2899 0)
+			(at 227.33 26.6699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9044,7 +9044,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 233.68 36.8299 0)
+			(at 227.33 29.2099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9053,7 +9053,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_2.5mm_Pad_TopBottom"
-			(at 231.14 36.83 0)
+			(at 224.79 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9062,7 +9062,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 231.14 36.83 0)
+			(at 224.79 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9071,7 +9071,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 231.14 36.83 0)
+			(at 224.79 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
