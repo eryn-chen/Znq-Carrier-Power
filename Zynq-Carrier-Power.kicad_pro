@@ -466,7 +466,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "Zynq-Carrier-Template.kicad_pro",
+    "filename": "Zynq-Carrier-Power.kicad_pro",
     "version": 3
   },
   "net_settings": {
